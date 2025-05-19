@@ -1,6 +1,6 @@
 # Master_CAU
 
-This repository collects selected projects and code developed during my master's studies in [Quantitative Finance @CAU](https://www.studium.uni-kiel.de/de/studienangebot/studienfaecher/quantitative-finance-ma).
+This repository collects selected projects and code developed during my master's studies in [Quantitative Finance](https://www.studium.uni-kiel.de/de/studienangebot/studienfaecher/quantitative-finance-ma).
 
 The focus of these projects ranges from statistical computing and financial modeling to risk analysis and data visualization, depending on the course context.
 
