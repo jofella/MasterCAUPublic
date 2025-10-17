@@ -37,3 +37,11 @@ The script performs the following tasks:
 2. Open MATLAB in that directory and run:
    ```matlab
    HA_MVTSAF_SS2025
+
+---
+
+## Output Example
+
+The following Impulse Response plot shows the contemporanous effect of one unit shock on each other.
+
+![Impulse_Response](docs/Impulse_Response.png)
