@@ -52,3 +52,11 @@ The script loads pre-processed, stationary monthly data and U.S. recession dates
 2. Open MATLAB in that folder and run:
    ```matlab
    HA_EconIII_WS2024_25
+
+---
+
+## Output Example
+
+The following Markov trace plot shows the convergence of Markov chains for N=10.000 simulations.
+
+![Markov_trace](docs/MC_trace_plot.png)
