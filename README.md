@@ -6,7 +6,7 @@ The focus of these projects ranges from statistical computing and financial mode
 
 ## Curriculum Overview
 
-The following diagram shows the recommended study plan for the M.Sc. Quantitative Finance program at CAU Kiel:
+The following diagram shows the study plan for the M.Sc. Quantitative Finance program at CAU Kiel:
 
 ![Curriculum Overview](docs/curriculum_quant_finance.PNG)
 
